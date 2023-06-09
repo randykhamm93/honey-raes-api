@@ -37,10 +37,10 @@
       "isStaff": true
     },
     {
+      "id": 7,
       "email": "jeremy@bakker.com",
       "fullName": "Jeremy Bakker",
-      "isStaff": true,
-      "id": 7
+      "isStaff": true
     }
   ],
   "customers": [
@@ -81,6 +81,12 @@
       "specialty": "Printer Repair",
       "rate": 29.45,
       "userId": 6
+    },
+    {
+      "id": 4,
+      "specialty": "Samsung Repair",
+      "rate": 84.50,
+      "userId": 7
     }
   ],
   "serviceTickets": [
